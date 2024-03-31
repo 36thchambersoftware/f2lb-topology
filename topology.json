@@ -7,14 +7,15 @@
     {"addr": "adrelay.hawak.cloud", "port": 3002, "valency": 1},
     {"addr": "161.97.172.86", "port": 6000, "valency": 1},
     {"addr": "pool.adaholycs.de", "port": 46371, "valency": 1},
-    {"addr": "barney.bardels.me", "port": 6001, "valency": 1, "poolName": "Bardels Pool", "poolTicker":  "BRNS"},
-    {"addr": "boe.bardels.me", "port": 6001, "valency": 1, "poolName": "Bardels Pool", "poolTicker":  "BRNS"},
+    {"addr": "79.143.176.128", "port": 3000, "valency": 1},
     {"addr": "bart.bardels.me", "port": 6001, "valency": 1, "poolName": "Bardels Pool", "poolTicker":  "BRNS"},
+    {"addr": "marge.bardels.me", "port": 6001, "valency": 1 "poolName": "Bardels Pool", "poolTicker":  "BRNS"},
     {"addr": "relaynode1.nsupdate.info", "port": 6000, "valency": 1},
-    {"addr": "r1.astch.com", "port": 3001, "valency": 1, "poolName": "Assurance Pool", "poolTicker":  "ASTCH"},
-    {"addr": "r3.astch.com", "port": 6001, "valency": 1, "poolName": "Assurance Pool", "poolTicker":  "ASTCH"},
-    {"addr": "64.140.118.166", "port": 5553, "valency": 1, "poolName": "Beehive Staking Pool", "poolTicker":  "BEEHI"},
+    {"addr": "r2.astch.com", "port": 3001, "valency": 1},
+    {"addr": "r4.astch.com", "port": 6000, "valency": 1},
+    {"addr": "r6.astch.com", "port": 6001, "valency": 1},
+    {"addr": "64.140.118.166", "port": 5553, "valency": 1},
     {"addr": "79.143.176.128", "port": 3000, "valency": 1, "poolName": "Tapioca pool", "poolTicker":  "TAPC"},
-    {"addr": "185.193.17.83", "port": 6005, "valency": 1}
+    {"addr": "144.91.120.14", "port": 6005, "valency": 1}
   ]
 }
