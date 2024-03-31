@@ -15,7 +15,7 @@
     {"addr": "r4.astch.com", "port": 6000, "valency": 1},
     {"addr": "r6.astch.com", "port": 6001, "valency": 1},
     {"addr": "64.140.118.166", "port": 5553, "valency": 1},
-    {"addr": "79.143.176.128", "port": 3000, "valency": 1, "poolName": "Tapioca pool", "poolTicker":  "TAPC"},
+    {"addr": "173.249.22.154", "port": 3000, "valency": 1, "poolName": "Tapioca pool", "poolTicker":  "TAPC"},
     {"addr": "144.91.120.14", "port": 6005, "valency": 1}
   ]
 }
